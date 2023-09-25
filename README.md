@@ -1,1 +1,1 @@
-Backend javascript codes
+Backend javascript codes are maintained in this repo
