@@ -1,1 +1,1 @@
-Backend javascript codes are maintained in this repo
+This repository contains backend javascript codes for manipilating unit tests
